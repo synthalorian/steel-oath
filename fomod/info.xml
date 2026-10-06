@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fomod>
+  <Name>Steel Oath</Name>
+  <Author>synthalorian</Author>
+  <Version>@VERSION@</Version>
+  <Website>https://github.com/synthalorian/steel-oath</Website>
+  <Description>Swear warrior's oaths through a lesser power. Keep them and the blessing grows; break them and pay. Five detectable vows, up to three at once. Early beta.</Description>
+  <Groups>
+    <element>Gameplay</element>
+  </Groups>
+</fomod>
