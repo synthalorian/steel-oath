@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Build Contract Hunter: compile Papyrus, generate the plugin, package the FOMOD.
+# Build Steel Oath: compile Papyrus, generate the plugin, package the FOMOD.
 #
 #   ./build.sh                     # everything, archive goes to ./dist
 #   ./build.sh -H "<Skyrim>/Data/Source/Scripts"   # type-check against the game's own script sources
